@@ -3,3 +3,7 @@ window = tk.Tk()
 
 window.title("We the best music")
 window.geometry("800x800")
+
+
+
+window.mainloop()
